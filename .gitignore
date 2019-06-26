@@ -1,0 +1,25 @@
+# ng
+/angular-practice/dist
+/angular-practice/tmp
+/angular-practice/app/**/*.js
+/angular-practice/app/**/*.js.map
+
+# dependencies
+**/node_modules
+/angular-practice/bower_components
+
+# misc
+/angular-practice/.sass-cache
+/angular-practice/connect.lock
+/angular-practice/coverage/*
+/angular-practice/libpeerconnection.log
+npm-debug.log
+testem.log
+/angular-practice/typings
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+
+#System Files
+.DS_Store
